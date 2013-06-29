@@ -1,0 +1,17 @@
+Higham ATrefethen
+Higham NTrefethen 
+Higham Bojanczyk
+Higham VanDooren
+Higham Kenney
+Higham Hammarling 
+Golub Benzi
+Golub Pan 
+Golub Funderlic
+Golub Strakos
+Golub Chandrasekaran
+Golub Bai
+Golub Moler
+Golub Park 
+Golub Hansen
+Golub Gragg
+Golub Starke
